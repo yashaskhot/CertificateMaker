@@ -1,0 +1,197 @@
+[
+    {
+        "name": "Omesh Barhate",
+        "position": "Co-Lead",
+        "description": [
+            "Collaborate with the lead & core team to set strategic goals.",
+            "Coordinate team efforts for seamless execution of club activities.",
+            "Conduct regular progress meetings and provide support to team members.",
+            "Foster a positive and productive team environment."
+        ]
+    },
+    {
+        "name": "Sahil Singh",
+        "position": "Co-Lead",
+        "description": [
+            "Collaborate with the lead & core team to set strategic goals.",
+            "Coordinate team efforts for seamless execution of club activities.",
+            "Conduct regular progress meetings and provide support to team members.",
+            "Foster a positive and productive team environment."
+        ]
+    },
+    {
+        "name": "Dushyant Bhagwant",
+        "position": "Secretary",
+        "description": [
+            "Manage club communications and ensure timely information dissemination.",
+            "Maintain records of meetings, agendas, minutes, and action items.",
+            "Create official reports of events and working.",
+            "Handle administrative tasks including event coordination and scheduling.",
+            "Monitoring the club's website and social media platforms regularly."
+        ]
+    },
+    {
+        "name": "Raj Chaudhari",
+        "position": "Event Advisor",
+        "description": [
+            "Provide strategic guidance for event planning and execution.",
+            "Evaluate event proposals for alignment with club objectives.",
+            "Offer insights on enhancing engagement and learning outcomes.",
+            "<EUGPSCoordinates>Review post-event reports for improvement.</EUGPSCoordinates>"
+        ]
+    },
+    {
+        "name": "Vipul Belhekar",
+        "position": "Sponsorship Advisor",
+        "description": [
+            "Develop a sponsorship strategy and identify potential partners.",
+            "Collaborate with the sponsorship team on proposals and pitches.",
+            "Establish and nurture sponsor relationships.",
+            "Evaluate sponsorship effectiveness."
+        ]
+    },
+    {
+        "name": "Likla Sinha",
+        "position": "Design Advisor",
+        "description": [
+            "Provide design expertise, ensuring visual consistency.",
+            "Review and approve design assets, including banners and posters.",
+            "Advice on maintaining a strong visual identity and brand.",
+            "Conduct design audits for quality."
+        ]
+    },
+    {
+        "name": "Yash Dharmkadhikari",
+        "position": "Design Advisor",
+        "description": [
+            "Provide design expertise, ensuring visual consistency.",
+            "Review and approve design assets, including banners and posters.",
+            "Advice on maintaining a strong visual identity and brand.",
+            "Conduct design audits for quality."
+        ]
+    },
+    {
+        "name" : "Ehtesham Siddiqui",
+        "position" :"General Advisor",
+        "description" :[
+          "Mentor the co-lead team, sharing insights and industry knowledge.",
+          "Participate in strategy discussions and decision-making.",
+          "Offer a fresh perspective on challenges and opportunities.",
+          "Attend key meetings and events to stay connected."
+      ]
+  },
+  {
+      "name" : "Alston Fernandes",
+      "position" :"Technical Advisor",
+      "description" :[
+          "Provide specialised technical expertise for club projects.",
+          "Advise on technology selection, architecture, and best practices.",
+          "Review project proposals and conduct code assessments.",
+          "Maintain code quality and standards"
+      ]
+  },
+  {
+      "name" : "Aditya Samant",
+      "position" :"PR Head",
+      "description" :[
+          "Devise and execute a comprehensive PR strategy.",
+          "Manage social media engagement and content creation.",
+          "Showcase club activities and accomplishments.",
+          "Collaborate with the design team for visual consistency."
+      ]
+  },
+  {
+      "name" : "Prasad Alai",
+      "position" :"Event Head",
+      "description" :[
+          "Plan, organise, and manage events aligned with member interests.",
+          "Handle logistics, resource allocation, and feedback analysis.",
+          "Monitor event trends for innovative experiences."
+      ]
+  },
+  {
+      "name" : "Shantanu Mande",
+      "position" :"Sponsorship Head",
+      "description" :[
+          "Craft a targeted sponsorship strategy and proposals.",
+          "Cultivate relationships with sponsors through regular communication.",
+          "Track commitments and benefits delivery."
+      ]
+  },
+  {
+      "name" : "Anushka Joseph",
+      "position" :"Design Head",
+      "description" :[
+          "Lead design team, ensure visual consistency.",
+          "Coordinate graphics development for events.",
+          "Collaborate across teams for integration.",
+          "Conduct design reviews for quality."
+      ]
+  },
+  {
+      "name" : "Gaven Dcosta",
+      "position" :"Web Expert",
+      "description" :[
+          "Design and maintain an intuitive and responsive club website.",
+          "Implement updates and enhance website functionality.",
+          "Conduct technical checks to resolve any issues on the website."
+      ]
+  },
+  {
+      "name" : "Jess John",
+      "position" :"App Expert",
+      "description" :[
+          "Develop user-focused mobile applications aligned with club goals.",
+          "Collaborate with other developers to enhance app features.",
+          "Test app stability, security, and user-friendliness.",
+          "Keep the app updated with relevant content and features."
+      ]
+  },
+  {
+      "name" : "Melwin Lewis",
+      "position" :"App Expert",
+      "description" :[
+          "Develop user-focused mobile applications aligned with club goals.",
+          "Collaborate with other developers to enhance app features.",
+          "Test app stability, security, and user-friendliness.",
+          "Keep the app updated with relevant content and features."
+      ]
+  },
+  {
+      "name" : "Aarol Dsouza",
+      "position" :"DSA/CP Expert",
+      "description" :[
+          "Plan and deliver structured workshops on data structures and algorithms.",
+          "Mentor members, guiding them through coding challenges.",
+          "Organise coding competitions and curate learning resources."
+      ]
+  },
+  {
+      "name" : "Vaishnavi Nagave",
+      "position" :"DSA/CP Expert",
+      "description" :[
+          "Plan and deliver structured workshops on data structures and algorithms.",
+          "Mentor members, guiding them through coding challenges.",
+          "Organise coding competitions and curate learning resources."
+      ]
+  },
+  {
+      "name" : "Sameer Shaikh",
+      "position" :"DSA/CP Expert",
+      "description" :[
+          "Plan and deliver structured workshops on data structures and algorithms.",
+          "Mentor members, guiding them through coding challenges.",
+          "Organise coding competitions and curate learning resources."
+      ]
+  },
+  {
+      "name" : "Yashas Khot",
+      "position" :"Cloud Expert",
+      "description" :[
+          "Lead cloud technology initiatives, organise workshops, and hands-on sessions.",
+          "Assist members in understanding cloud concepts and deployments.",
+          "Stay updated on cloud trends, sharing insights with the club.",
+          "Assess cloud projects for adherence to best practices."
+      ]
+  }
+]
